@@ -1,0 +1,7 @@
+comet_ml==3.32.7
+pytorch_lightning==1.9.0
+torch==1.13.1
+tqdm==4.64.1
+utils-package-Martin36==0.0.8
+urllib3<2
+numpy<2

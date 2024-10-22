@@ -1,0 +1,8 @@
+[
+  {"name": "connected", "arity": 2, "idx": 0}, 
+  {"name": "at-robot", "arity": 1, "idx": 1}, 
+  {"name": "visited", "arity": 1, "idx": 2}, 
+  {"name": "constant", "arity": 1, "idx": 3}, 
+  {"name": "variable", "arity": 1, "idx": 4},
+  {"name": "neq", "arity": 2, "idx": 5}
+]

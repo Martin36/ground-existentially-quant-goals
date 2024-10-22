@@ -1,0 +1,10 @@
+[
+  {"name": "on", "arity": 2, "idx": 0}, 
+  {"name": "ontable", "arity": 1, "idx": 1}, 
+  {"name": "clear", "arity": 1, "idx": 2}, 
+  {"name": "handempty", "arity": 0, "idx": 3}, 
+  {"name": "holding", "arity": 1, "idx": 4}, 
+  {"name": "constant", "arity": 1, "idx": 5}, 
+  {"name": "variable", "arity": 1, "idx": 6},
+  {"name": "neq", "arity": 2, "idx": 7}
+]

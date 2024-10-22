@@ -1,0 +1,13 @@
+[
+  {"name": "at", "arity": 2, "idx": 0}, 
+  {"name": "at-robby", "arity": 1, "idx": 1}, 
+  {"name": "ball", "arity": 1, "idx": 2}, 
+  {"name": "carry", "arity": 2, "idx": 3}, 
+  {"name": "free", "arity": 1, "idx": 4},
+  {"name": "room", "arity": 1, "idx": 5},
+  {"name": "gripper", "arity": 1, "idx": 6},
+  {"name": "constant", "arity": 1, "idx": 7}, 
+  {"name": "variable", "arity": 1, "idx": 8},
+  {"name": "neq", "arity": 2, "idx": 9},
+  {"name": "adjacent", "arity": 2, "idx": 10}
+]

@@ -1,0 +1,9 @@
+[
+  {"name": "at", "arity": 2, "idx": 0}, 
+  {"name": "adjacent", "arity": 2, "idx": 1},
+  {"name": "carrying", "arity": 2, "idx": 2}, 
+  {"name": "empty", "arity": 1, "idx": 3},
+  {"name": "constant", "arity": 1, "idx": 4}, 
+  {"name": "variable", "arity": 1, "idx": 5},
+  {"name": "neq", "arity": 2, "idx": 6}
+]

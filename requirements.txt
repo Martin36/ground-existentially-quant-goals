@@ -1,0 +1,13 @@
+comet_ml==3.32.7
+matplotlib==3.7.0
+numpy==1.23.4
+pandas==1.5.2
+pygsheets==2.0.6
+pykwl==0.0.19
+pymimir @ git+https://github.com/simon-stahlberg/mimir.git@660c07b59a3b483920df74a2f1f7833b52ada0b0
+pytest==7.3.1
+pytorch_lightning==1.9.0
+tarski @ git+https://github.com/Martin36/tarski.git
+torch==1.13.1
+tqdm==4.64.1
+utils-package-Martin36==0.0.8
